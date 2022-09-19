@@ -1,0 +1,22 @@
+
+header{
+background-color: rgb(188, 226, 35);
+background-size: auto;
+}
+h1{
+   font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+
+}
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: large;
+}
+p{
+    font-weight: normal;
+}
+h3{
+    font-style:italic ;
+}
